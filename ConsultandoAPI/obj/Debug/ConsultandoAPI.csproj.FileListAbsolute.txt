@@ -1,0 +1,14 @@
+C:\Users\Info\Documents\ConsultandoAPI\ConsultandoAPI\ConsultandoAPI\obj\Debug\ConsultandoAPI.csproj.AssemblyReference.cache
+C:\Users\Info\Documents\ConsultandoAPI\ConsultandoAPI\ConsultandoAPI\obj\Debug\ConsultandoAPI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Info\Documents\ConsultandoAPI\ConsultandoAPI\ConsultandoAPI\obj\Debug\ConsultandoAPI.FrmMain.resources
+C:\Users\Info\Documents\ConsultandoAPI\ConsultandoAPI\ConsultandoAPI\obj\Debug\ConsultandoAPI.Properties.Resources.resources
+C:\Users\Info\Documents\ConsultandoAPI\ConsultandoAPI\ConsultandoAPI\obj\Debug\ConsultandoAPI.csproj.GenerateResource.cache
+C:\Users\Info\Documents\ConsultandoAPI\ConsultandoAPI\ConsultandoAPI\obj\Debug\ConsultandoAPI.csproj.CoreCompileInputs.cache
+C:\Users\Info\Documents\ConsultandoAPI\ConsultandoAPI\ConsultandoAPI\bin\Debug\ConsultandoAPI.exe.config
+C:\Users\Info\Documents\ConsultandoAPI\ConsultandoAPI\ConsultandoAPI\bin\Debug\ConsultandoAPI.exe
+C:\Users\Info\Documents\ConsultandoAPI\ConsultandoAPI\ConsultandoAPI\bin\Debug\ConsultandoAPI.pdb
+C:\Users\Info\Documents\ConsultandoAPI\ConsultandoAPI\ConsultandoAPI\bin\Debug\Correios.dll
+C:\Users\Info\Documents\ConsultandoAPI\ConsultandoAPI\ConsultandoAPI\bin\Debug\Correios.pdb
+C:\Users\Info\Documents\ConsultandoAPI\ConsultandoAPI\ConsultandoAPI\obj\Debug\ConsultandoAPI.csproj.CopyComplete
+C:\Users\Info\Documents\ConsultandoAPI\ConsultandoAPI\ConsultandoAPI\obj\Debug\ConsultandoAPI.exe
+C:\Users\Info\Documents\ConsultandoAPI\ConsultandoAPI\ConsultandoAPI\obj\Debug\ConsultandoAPI.pdb
